@@ -1,0 +1,5 @@
+<root>
+    <item name='com.sun.javafx.fxml.expression.Expression.Parser'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
